@@ -52,6 +52,10 @@ scripts/make-icon.swift   renders Resources/AppIcon.icns
 build-app.sh              builds the .app bundle
 ```
 
+## License
+
+[MIT](LICENSE)
+
 ## Disclaimer
 
 Not affiliated with or endorsed by Microsoft. ".NET" is a trademark of Microsoft Corporation. Uninstalling deletes files under your .NET install folders; use at your own risk.
